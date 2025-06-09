@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+.venv/
+.idea/
+
+alembic.ini
+
+alembic/__pycache__/
+
+app_logs.log
