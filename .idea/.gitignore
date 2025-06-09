@@ -1,0 +1,36 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+
+# JetBrains (PyCharm, IDEA)
+.idea/
+*.iml
+
+# Логи и кэш
+*.log
+*.sqlite
+*.cache
+.pytest_cache/
+
+# Alembic
+/alembic.ini
+/migrations/README
+/migrations/script.py.mako
+
+# Конфигурации и секреты
+.env
+.env.local
+secrets.yml
+config.py
