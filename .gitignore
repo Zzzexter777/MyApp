@@ -12,3 +12,4 @@ alembic/__pycache__/
 app_logs.log
 
 src/__pycache__/
+src/settings/
